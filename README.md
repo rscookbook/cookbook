@@ -9,11 +9,11 @@ Check out our website: www.remotesensingcookbook.com
 Forum: Click on the discussions under the forum repository to check out other users questions and post questions yourself.
 
 Sections: This repository contains:
-an introduction file, 
-a basic skills page, 
-a page for more advanced remote sensing skills, 
-a file containing a library of suggested resources (books + courses), 
-and an updates page
+* an introduction file, 
+* a basic skills page, 
+* a page for more advanced remote sensing skills, 
+* a file containing a library of suggested resources (books + courses), and
+* an updates page
 
 
 # Want to Contribute to the Cookbook?
