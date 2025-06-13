@@ -15,7 +15,7 @@ This repository contains:
 * a basic skills page, 
 * a page for more advanced remote sensing skills, 
 * a file containing a library of suggested resources (books + courses), and
-* an updates page
+* an updates page.
 
 
 # Want to Contribute to the Cookbook?
