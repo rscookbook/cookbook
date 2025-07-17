@@ -8,7 +8,6 @@ from shapely.geometry import Point
 from shapely.geometry import shape
 from shapely import vectorized
 
-# Login to earthaccess with username and password
 auth = earthaccess.login(strategy= "interactive", persist=True)
 
 earthaccess.login()
