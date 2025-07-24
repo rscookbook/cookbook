@@ -1,3 +1,7 @@
+#Installing and Working with OpenDroneMap (ODM)
+Contributed by: Connor McRae-Pharo, MSc
+Publication date: 25 July 2025
+
 OpenDroneMap (ODM) is an open-source toolkit designed to process aerial imagery captured by drones into usable spatial data. At its core, ODM takes collections of overlapping photos and turns them into high-resolution geospatial products such as orthophotos, 3D models, point clouds, and digital surface models/digital terrain models. These outputs can then be used for mapping, monitoring, or analysis across a wide range of environmental and spatial research applications.
 If you’ve used commercial drone mapping platforms like Pix4D or DroneDeploy, you’ll find that ODM provides many of the same core capabilities, but with a few key advantages. It’s free to use, fully customizable, horizontally scalable, fairly forgiving, and built by a global community of developers/researchers. This makes it especially useful for academic work, long-term research projects, or any situation where transparency, reproducibility, and cost control are important, which is often the case with any level of academic research.
 Whether you're mapping wetlands, monitoring forest change, or building a 3D model of a heritage site, ODM gives you the tools to turn raw imagery into a meaningful spatial product.
