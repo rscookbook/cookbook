@@ -37,8 +37,8 @@ When installing Python, ensure that the Add Python to PATH option is selected du
 
 The version of Docker you install depends on your Windows edition if you're using Windows 10 Home, install Docker Toolbox, if you're using Windows 10 Professional or newer, install Docker Desktop.
 
-[!CAUTION]
-Do not install both Docker Toolbox and Docker Desktop. Choose the one appropriate for your system, as running both can cause conflicts.
+> [!CAUTION]
+> Do not install both Docker Toolbox and Docker Desktop. Choose the one appropriate for your system, as running both can cause conflicts.
 
 Once installed, launch Docker from the provided desktop shortcut.
 
