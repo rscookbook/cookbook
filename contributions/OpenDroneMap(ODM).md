@@ -58,7 +58,7 @@ Then, under Target Directory, browse to a folder where you’d like WebODM to be
 **Step 5: Launch WebODM**\
 From Git GUI, go to the Repository menu and select Git Bash to open a command line window. In the terminal, type:
 
-<!-- ./webodm.sh start -->
+```./webodm.sh start```
 
 This command initiates the download of all necessary components: WebODM, NodeODM, and ODM. Once complete, you’ll see a series of messages confirming that services are running.
 
