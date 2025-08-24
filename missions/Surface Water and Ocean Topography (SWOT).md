@@ -23,7 +23,7 @@ SWOT data is available through NASA's PO.DAAC and the AVISO portal, including hy
 
 ## Summary Table
 
-| Aspect              | Key Points                                                                                      |
+| **Aspect**              | **Key Points**                                                                                      |
 |---------------------|-------------------------------------------------------------------------------------------------|
 | Purpose             | Global, high-resolution mapping of surface water on land and ocean                              |
 | Orbit & Instruments | Wide swath, non-sun-synchronous orbit; instruments including KaRIn, altimeter, radiometer, etc. |
