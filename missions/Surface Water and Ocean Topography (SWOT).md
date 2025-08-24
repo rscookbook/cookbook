@@ -22,6 +22,14 @@ SWOT data is available through NASA's PO.DAAC and the AVISO portal, including hy
   - Notably, SWOT enabled mapping of the ocean floor (revealing abyssal hills and seamounts via sea surface variations) and, for the first time, detection of long “flow waves” in rivers—enhancing flood-risk understanding.
 
 Summary Table
+
+| Aspect              | Key Points                                                                                      |   |   |   |
+|---------------------|-------------------------------------------------------------------------------------------------|---|---|---|
+| Purpose             | Global, high-resolution mapping of surface water on land and ocean                              |   |   |   |
+| Orbit & Instruments | Wide swath, non-sun-synchronous orbit; instruments including KaRIn, altimeter, radiometer, etc. |   |   |   |
+| Data Access         | Available via PO.DAAC & AVISO; includes documentation, tutorials, and user support              |   |   |   |
+| Usage Notes         | High complexity, strong modeling potential, community-driven applications                       |   |   |   |
+
 Aspect	Key Points
 Purpose	Global, high-resolution mapping of surface water on land and ocean
 Orbit & Instruments	Wide swath, non-sun-synchronous orbit; instruments including KaRIn, altimeter, radiometer, etc.
