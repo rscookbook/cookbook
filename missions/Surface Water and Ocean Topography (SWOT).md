@@ -8,8 +8,8 @@ The SWOT (Surface Water and Ocean Topography) mission—developed jointly by NAS
 - **Orbit**: Low Earth, inclined (77.6°), non-sun-synchronous, ~102.9 min period, ~21-day repeat cycle
 - **Coverage**: Reaches ~78°S to 78°N, covering ~86% of the globe every three weeks
 - **Key Instruments**:
-  - KaRIn (Ka-band Radar Interferometer): wide-swath elevation mapping
-  - Altimeter, AMR-C, DORIS, GPSP, LRA for auxiliary measurements
+  - **KaRIn** (Ka-band Radar Interferometer): wide-swath elevation mapping
+  - **Altimeter**, **AMR-C**, **DORIS**, **GPSP**, **LRA** for auxiliary measurements
 
 ## Data Access
 SWOT data is available through NASA's PO.DAAC and the AVISO portal, including hydrology and oceanography products, release notes, user guides, and the SWOT Data User Handbook (Rev A, March 2025). Interactive tutorials and resources—like the PO.DAAC Cookbook and HiTIDE tool—help users subset and download KaRIn data.
