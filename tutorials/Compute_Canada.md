@@ -1,8 +1,11 @@
 # A Guide to Using Canada's Digital Research Alliance (DRAC) for Research Computing
 
+Contributed by: Muhammed Patel, MASc
+Publication date: 27 Aug 2025
+
 This tutorial will guide you through using the Digital Research Alliance of Canada (DRAC), formerly Compute Canada, for your research computing needs. DRAC provides Canadian researchers with access to powerful advanced research computing (ARC) resources and services, including a wide array of GPUs and CPUs to support various workloads, from machine learning to large-scale simulations.
 
-For comprehensive information, you can always refer to the [official DRAC documentation](https://docs.digitalalliance.ca/).
+For comprehensive information, you can always refer to the [official DRAC documentation](https://docs.alliancecan.ca/wiki/Technical_documentation).
 
 This guide covers the following topics:
 
@@ -17,7 +20,7 @@ This guide covers the following topics:
 
 ## What is High-Performance Computing (HPC)?
 
-<img src="hpc.png" width="600" alt="HPC diagram" />
+<img src="assets/hpc.png" width="600" alt="HPC diagram" />
 
 High-Performance Computing (HPC) refers to the use of supercomputers and parallel processing techniques for solving complex computational problems. Think of an HPC cluster as a powerful, remote computer equipped with a massive number of CPUs, GPUs, abundant RAM, and vast storage.
 
@@ -145,7 +148,7 @@ To request an interactive session with 1 CPU and 4GB of memory for 1 hour, use t
 ```bash
 salloc --cpus-per-task=1 --mem=4G --time=1:00:00 --account=def-your_account
 ```
-Replace `def-your_account` with your allocation account. This will give you a shell prompt on a compute node.
+Replace `def-your_account` with your allocation account. This will give you a shell prompt on a compute node. If you don't know your allocation account, you can find it by running the `id` command in the terminal and look for something starting with `def-`
 
 ### Batch Job Example
 
@@ -220,10 +223,12 @@ Host nibi
     qgis
     ```
 
-The QGIS interface should appear on your screen, running on the powerful compute node.
+The QGIS interface should appear on your screen (like below), running on the powerful compute node.
+
+<img src="assets/qgis.png" width="600" alt="HPC diagram" />
 
 ---
 
-This guide provides a starting point for using DRAC resources. In future tutorials, we’ll dive into more advanced topics such as common DRAC commands, leveraging GPUs for machine learning, setting up SSH-agent and Github access on Compute canada and using the VSCode debugger on interactive nodes.
+This guide provides a starting point for using DRAC resources. In future tutorials, we’ll dive into more advanced topics such as common DRAC commands, leveraging GPUs for machine learning, setting up SSH-agent, Github access on Compute canada and using the VSCode debugger on interactive nodes.
 
-The support team of DRAC is very proactive is also an excellent resource for more advanced topics and troubleshooting. Happy computing!
+The support team of DRAC is very proactive and is also an excellent resource for more advanced topics and troubleshooting. Happy computing!
