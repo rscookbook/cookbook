@@ -1,6 +1,6 @@
 # A Guide to Using Canada's Digital Research Alliance (DRAC) for Research Computing
 
-**Contributed by:** Muhammed Patel, MASc //
+**Contributed by:** Muhammed Patel, MASc\
 **Publication date:** 27 Aug 2025
 
 This tutorial will guide you through using the Digital Research Alliance of Canada (DRAC), formerly Compute Canada, for your research computing needs. DRAC provides Canadian researchers with access to powerful advanced research computing (ARC) resources and services, including a wide array of GPUs and CPUs to support various workloads, from machine learning to large-scale simulations.
