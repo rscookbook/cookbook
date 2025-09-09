@@ -34,5 +34,4 @@ Landsat, a joint NASA/USGS satellite program, stands as the longest-running cont
 | Usage Notes         | Sensor continuity, calibration, preprocessing needed for consistent analysis                      |
 
 
-Ready to explore? Check out EarthExplorer for browsing, use GEE for analysis-ready workflows, or dive into cloud-based processing via AWS. Let me know if you’d like help building a Landsat workflow in Python, QGIS, or GEE!
-
+Ready to explore? Check out EarthExplorer for browsing, use GEE for analysis-ready workflows, or dive into cloud-based processing via AWS.
