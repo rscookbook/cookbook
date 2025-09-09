@@ -12,9 +12,9 @@ F-SAR (Flugzeug-Synthetic Aperture Radar) is an advanced airborne SAR testbed de
 
 ## Data Access
 - **Data Products:** F-SAR offers various processed formats:
--   RGI (Radar Geometry Image)
--   GTC (Geocoded, Terrain-Corrected)
--   INF (Interferometric stacks)
+  - RGI (Radar Geometry Image)
+  - GTC (Geocoded, Terrain-Corrected)
+  - INF (Interferometric stacks)
 
 - **File Formats & Tools:**
 -   Data often stored in RAT binary format with accompanying `.hdr` files (ENVI-compatible). Tools like GDAL and QGIS support conversion to GeoTIFF.
