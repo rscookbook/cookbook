@@ -17,8 +17,8 @@ F-SAR (Flugzeug-Synthetic Aperture Radar) is an advanced airborne SAR testbed de
   - INF (Interferometric stacks)
 
 - **File Formats & Tools:**
--   Data often stored in RAT binary format with accompanying `.hdr` files (ENVI-compatible). Tools like GDAL and QGIS support conversion to GeoTIFF.
--   Python support via PyRAT, enabling low-level data access, and the command-line tool fsar_applyLUTs allows radar-slant-range to geocoded grid transformations using LUTs.
+  - Data often stored in RAT binary format with accompanying `.hdr` files (ENVI-compatible). Tools like GDAL and QGIS support conversion to GeoTIFF.
+  - Python support via PyRAT, enabling low-level data access, and the command-line tool fsar_applyLUTs allows radar-slant-range to geocoded grid transformations using LUTs.
 
 - **Request & Access:**
   - F-SAR data is available on request—typically via DLR's EOWEB GeoPortal or by contacting their airborne SAR missions team. Data access agreements apply.
