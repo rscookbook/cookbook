@@ -41,5 +41,5 @@ F-SAR (Flugzeug-Synthetic Aperture Radar) is an advanced airborne SAR testbed de
 | Considerations         | Complex, research-focused data; requires technical expertise                     |
 
 
-Ready to explore? Check out EarthExplorer for browsing, use GEE for analysis-ready workflows, or dive into cloud-based processing via AWS.
+Ready to explore? You can explore the F-SAR brochures, data format documentation, and consider contacting DLR for potential collaboration or data requests.
 
