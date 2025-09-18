@@ -32,11 +32,9 @@ There are a few different ways to access Sentinel data:
 |---------------------|----------------------------|---------------------|----------------------------|---------------------|
 | Sentinel-1            | C-band SAR (radar)| SAR (VV, VH, HH, HV)             | 5–40 m (depending on mode)| InSAR, land motion, sea ice, floods             |
 | Sentinel-2            | Optical multispectral | MSI (13 bands, VNIR–SWIR)             | 10–60 m  | Vegetation, LULC, agriculture             |
-| Sentinel-3            | C-band SAR (radar)| SAR (VV, VH, HH, HV)             | 5–40 m (depending on mode)| InSAR, land motion, sea ice, floods             |
-| Sentinel-4            | C-band SAR (radar)| SAR (VV, VH, HH, HV)             | 5–40 m (depending on mode)| InSAR, land motion, sea ice, floods             |
-| Sentinel-5P            | C-band SAR (radar)| SAR (VV, VH, HH, HV)             | 5–40 m (depending on mode)| InSAR, land motion, sea ice, floods             |
-| Sentinel-6            | C-band SAR (radar)| SAR (VV, VH, HH, HV)             | 5–40 m (depending on mode)| InSAR, land motion, sea ice, floods             |
+| Sentinel-3            | Ocean & land monitoring| OLCI, SLSTR, SRAL             | 300 m – 1 km| SST, ocean color, altimetry             |
+| Sentinel-4            | Atmosphere (air quality)| UVN spectrometer (geo)             | ~8 km (geo footprint)| Trace gas monitoring             |
+| Sentinel-5P            | Atmosphere (TROPOMI)| UVN spectrometer             | 3.5 × 7 km| Monitoring NO₂, O₃, CH₄, SO₂ levels             |
+| Sentinel-6            | Ocean topography| Poseidon-4 altimeter, radiometer             | ~cm vertical precision| Sea level rise, ocean currents             |
 
-
-Ready to dive in? Explore the SWOT Data User Handbook, check out the PO.DAAC Cookbook, and join the Earthdata Forum to engage with the SWOT user community.
-
+The Sentinel series is one of the most comprehensive EO fleets ever launched, and learning to work with its datasets (SAR, optical, atmospheric, oceanic) is essential for modern remote sensing research. Check out our forum to submit questions or comments regarding Sentinel!
