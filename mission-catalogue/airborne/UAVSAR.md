@@ -8,40 +8,44 @@ UAVSAR is a NASA airborne L-band synthetic aperture radar system designed to tes
 - **Frequency & Polarimetry:**: Operates at L-band (~1.26 GHz), fully polarimetric (HH, HV, VH, VV).
 - **Imaging Modes:**:
   - PolSAR (polarimetric SAR)
-  - AVIRIS (Airborne Visible/Infrared Imaging Spectrometer)
-  - HyTES (Hyperspectral Thermal Emission Spectrometer)
-- **Spectral & Spatial Resolution**: MASTER data have ~50 spectral bands spanning visible through thermal infrared (~0.460 to ~12.88 μm) with ~50-meter spatial resolution. Derived Level-2 products include emissivity in several thermal IR bands and land surface temperature.
+  - Repeat-pass InSAR for deformation
+  - Single-pass along-track interferometry (when paired with JPL’s AirMOSS)
+- **Resolution & Swath**: ~1–7 m resolution, ~20 km swath.
+- **Geolocation Accuracy:** Precise autopilot and GPS/INS enable repeat-pass track accuracy better than 10 m.
+- **Campaigns:** UAVSAR has flown extensively across the U.S. and internationally for tectonics, cryosphere, wetlands, and disaster response studies (e.g., earthquakes in Haiti, ice sheet mapping in Greenland, permafrost in Alaska).
 
 ## Data Access
-- **Data Products**: For example, the Spring 2024 dataset includes Level-1B (L1B) calibrated radiance in 50 bands and Level-2 (L2) products (emissivity, land surface temperature) for many flight tracks.
-- **File Formats**: L1B data are provided in HDF-4 format. L2 products are delivered in ENVI raster files, KMZ format, PNG/JPEG browse images.
-- **Metadata & Ancillaries**: Flight paths, instrument configuration, spectral band calibration, browse images, quality assessment information are also included.
-- **Archive & Access Portals**: Data are available via NASA’s Earthdata / ORNL DAAC (Oak Ridge National Lab Distributed Active Archive Center), and through campaign listings in NASA’s Airborne Science Program and USGS Earth MRI.
+- **NASA UAVSAR Portal:** uavsar.jpl.nasa.gov (search by region, flight line, date, product type).
+- **Products**:
+  - SLC (Single Look Complex)
+  - GRD (Geocoded Radar Data)
+  - INSAR (Interferograms)
+  - POLSAR (Polarimetric stacks)
+- **File Formats**: CEOS standard format, with annotation files (.ann), binary data, and KMZ quicklooks.
+- **Access Requirements:** Publicly available; some datasets also archived via NASA DAACs (e.g., ASF DAAC for InSAR).
 
 ## What to Know Before You Use F-SAR Data
-- **Preprocessing Needs:** Need to handle calibration, atmospheric correction, possible georeferencing. Thermal bands tend to be more difficult.
-- **Sensor Differences:** Multi-instrument datasets (MASTER, AVIRIS, HyTES). Each has different spectral coverage, noise levels, and characteristics; integrating across sensors may require care.
-- **Data Volume & Size:** Large number of flight tracks, big files (L1B especially). Browse images help but analyses will require substantial computing resources.
-- **Spatial & Temporal Coverage Limits:** Not continuous; limited to specific flights / seasons. If doing time-series work, must check date & flight availability.
-- **Interpretation of Mineral Signatures:** Mapping mineralogy from spectral data requires domain knowledge (spectroscopy, mineral alteration, reflectance/emissivity spectral interpretation). Ground truth / validation often needed.
+- **Large Data Volumes:** Single flight line products can be several GB. Plan storage and processing power accordingly.
+- **Specialized Formats:** CEOS format may require tools like GDAL, PolSARpro, or custom Python scripts to parse. Annotation files (.ann) are essential for metadata.
+- **Repeat-Pass Geometry:** For interferometry, precise co-registration is critical. Many interferogram products are pre-computed, but custom processing may be needed.
+- **Not Global Coverage:** Campaign-based—data exist only for specific regions of interest.
+- **Applications:** Earthquakes, volcanoes, subsidence, permafrost thaw, glacier motion, vegetation biophysics, disaster response (e.g., floods, oil spills).
 
 ## Summary Table
 
 | **Aspect**              | **Key Points**                                                                                      |
 |---------------------|-------------------------------------------------------------------------------------------------|
-| Purpose             | Map mineral resources in Western U.S.; support USGS Earth MRI and serve as a precursor to NASA’s Surface Biology & Geology (SBG) mission                              |
-| Timeframe | Campaign-based, flights ongoing since 2023 |
-| Platform         | NASA ER-2 and Gulfstream V aircraft (high-altitude, ~20 km)              |
-| Sensors         | MASTER (visible–TIR, 50 bands), AVIRIS (VNIR/SWIR hyperspectral), HyTES (TIR hyperspectral)                     |
-| Spectral Range         | ~0.46 – 12.88 μm (VNIR–SWIR–TIR coverage, depending on sensor)                     |
+| Purpose             | Airborne L-band SAR for deformation, ecosystems, disaster response, and spaceborne SAR prep                              |
+| Platform | NASA Gulfstream-III aircraft with precision autopilot |
+| Frequency         | L-band (~1.26 GHz), fully polarimetric              |
+|Resolution/Swath         | ~1–7 m, ~20 km                     |
+| Data Products         | SLC, GRD, InSAR interferograms, PolSAR products                     |
 | Spatial Resolution         | ~50 m (MASTER); varies for AVIRIS/HyTES                    |
-| Data Products         | L1B calibrated radiance (HDF-4), L2 emissivity & land surface temperature (ENVI, KMZ, PNG/JPEG browse)                    |
-| Coverage         | Western U.S. (CA, NV, AZ, OR, NM) – arid/semi-arid regions                     |
-| Access         | Publicly available through NASA ORNL DAAC & Earthdata portals                     |
-| Considerations         | Multi-sensor integration required; large data volumes; limited temporal coverage; spectral expertise needed for mineral mapping                     |
+| Access         | UAVSAR data portal (public), ASF DAAC for some products                    |
+| Considerations         | Campaign-based (not global), large files, CEOS format, requires advanced SAR processing knowledge                     |
 
 
-And there you have it, the basics of the GEMx mission!
+UAVSAR is one of the most important bridges between airborne science and space missions like NISAR, providing both operational datasets and a testbed for radar technology and science methods. Check out some other important airborne missions in our catalogue!
 
 
 
