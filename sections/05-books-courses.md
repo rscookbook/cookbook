@@ -1,4 +1,4 @@
-# Reccomended Resources
+# Recomended Resources
 
 ## Contents
 
@@ -14,9 +14,14 @@
 
 ## Online Courses
 
+| Course name | Course description | Course URL |
+|---|---|---|
+| **1. Remote Sensing Basics** |  |  |
+| NASA ARSET Fundamentals of Remote Sensing | Self-paced introduction to remote sensing basics through combination of slideshows and recordings | https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing |
+
 ## Other
 
 ### Complete List of Alternative Media Resources
-| Creator name               | Media name                                                                     | Media type                                                                     | Access Media                                                                                                                                                 |
+| Media type                                                                     | Creator name               | Media name                                                                     | Access Media                                                                                                                                                 |
 |----------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                   |                                                              |                                                              |                                                                                                                      |
+| Podcast                       | Earth Resources Observation and Science (EROS) Center                  | Eyes on Earth                                                             | https://www.usgs.gov/centers/eros/eyes-earth                                                             |
