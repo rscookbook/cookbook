@@ -18,6 +18,8 @@
 |---|---|---|
 | **1. Remote Sensing Basics** |  |  |
 | NASA ARSET Fundamentals of Remote Sensing | Self-paced introduction to remote sensing basics through combination of slideshows and recordings | https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing |
+|  Remote Sensing Image Acquisition, Analysis and Applications  |  Covers RS fundamentals, as well as different platforms and sensors. There are also lessons in computational algorithms associated with RS | https://www.coursera.org/learn/remote-sensing  |
+
 
 ## Other
 
