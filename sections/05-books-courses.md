@@ -58,6 +58,6 @@ Canada Centre for Mapping and Earth Observation, Natural Resources Canada, 2014.
 |----------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Podcast                       | Earth Resources Observation and Science (EROS) Center                  | Eyes on Earth                                                             | https://www.usgs.gov/centers/eros/eyes-earth                                                             |
 |  Documentary                  | Michael McKennirey            |  The Long View    |  https://www.nfb.ca/film/the-long-view/  |
-|  Documentary            |  Winston Films      |  From Space to Sea | Towards the Detection of Plastic with Remote Sensing    | https://www.youtube.com/watch?v=YkRuiI20ZqI    | 
+|  Documentary            |  Winston Films      |  From Space to Sea -- Towards the Detection of Plastic with Remote Sensing    | https://www.youtube.com/watch?v=YkRuiI20ZqI    | 
 |  Documentary            | Free Documentary     | Satellites: How They Change Our Lives    |  https://www.youtube.com/watch?v=1VoxKfQ4T7s   | 
 
