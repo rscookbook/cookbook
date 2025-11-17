@@ -6,7 +6,7 @@
 - [Texts](05-books-courses.md#texts)
 - [Online Courses](05-books-courses.md#online-courses)
 - [Other](05-books-courses.md#other)
--   [Complete List](05-books-courses.md#other-complete-list)
+  - [Complete List](05-books-courses.md#other-complete-list)
 
 ## About this section
 
@@ -14,7 +14,7 @@
 
 In our experience, we've been trained on the bascis of remote sensing by Ian Woodhouse<sup>1</sup>, but we're well aware that there are so many other textbooks out there that are better suited towards different learners with any background that you can imagine. If there's a book or author that you've had great experiences with, let us know and we'll add it to our list of recommendations!
 
-<sup>1</sup>Woodhouse, I.H. (2006). Introduction to Microwave Remote Sensing (1st ed.). CRC Press. https://doi.org/10.1201/9781315272573)
+<sup>1</sup>Woodhouse, I.H. (2006). Introduction to Microwave Remote Sensing (1st ed.). CRC Press. https://doi.org/10.1201/9781315272573
 
 ### Community Recommendations
 
@@ -34,8 +34,6 @@ Schowengerdt, R.A., 2007. Remote sensing: Models and methods for image processin
 Canada Centre for Mapping and Earth Observation, Natural Resources Canada, 2014. Fundamentals of remote sensing, 258 pp.: https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/resource/tutor/fundam/pdf/fundamentals_e.pdf
 
 
-
-
 ## Online Courses
 
 | Course name | Course description | Course URL |
@@ -53,11 +51,13 @@ Canada Centre for Mapping and Earth Observation, Natural Resources Canada, 2014.
 | Earth Data Science Courses + Textbooks  |  Hosted by UColorado, this page has a ton of great courses based around remote sensing to earth science  |  https://earthdatascience.org/courses/  |
 
 
-
-
 ## Other
 
 ### Complete List of Alternative Media Resources
 | Media type                                                                     | Creator name               | Media name                                                                     | Access Media                                                                                                                                                 |
 |----------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Podcast                       | Earth Resources Observation and Science (EROS) Center                  | Eyes on Earth                                                             | https://www.usgs.gov/centers/eros/eyes-earth                                                             |
+|  Documentary                  | Michael McKennirey            |  The Long View    |  https://www.nfb.ca/film/the-long-view/  |
+|  Documentary            |  Winston Films      |  From Space to Sea | Towards the Detection of Plastic with Remote Sensing    | https://www.youtube.com/watch?v=YkRuiI20ZqI    | 
+|  Documentary            | Free Documentary     | Satellites: How They Change Our Lives    |  https://www.youtube.com/watch?v=1VoxKfQ4T7s   | 
+
