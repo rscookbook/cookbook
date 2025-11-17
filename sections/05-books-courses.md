@@ -9,6 +9,7 @@
   - [Complete List](05-books-courses.md#other-complete-list)
 
 ## About this section
+We hope to provide you with a basis for your remote sensing journey. With that, you should understand that even if you read every single textbook listed below, or complete every course within the course guide, you still will not know everything there is to know about remote sensing--but you will have the basics down! This guide of resources will continue to grow and will be maintained for expired or outdated courses or texts. If you have reccomendations that helped you through your journey, please let us know and we'd be happy to share them with the community. Happy reading & good luck!
 
 ## Texts
 
