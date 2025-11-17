@@ -12,7 +12,9 @@
 
 ## Texts
 
-In our experience, we've been trained on the bascis of remote sensing by Ian Woodhouse (Woodhouse, I.H. (2006). Introduction to Microwave Remote Sensing (1st ed.). CRC Press. https://doi.org/10.1201/9781315272573), but we're well aware that there are so many other textbooks out there that are suited towards different learners with any background that you can imagine. If there's a book or author that you've had great experiences with us let us know and we'll add it to our list of recommendations!
+In our experience, we've been trained on the bascis of remote sensing by Ian Woodhouse<sup>1</sup>, but we're well aware that there are so many other textbooks out there that are better suited towards different learners with any background that you can imagine. If there's a book or author that you've had great experiences with, let us know and we'll add it to our list of recommendations!
+
+<sup>1</sup>Woodhouse, I.H. (2006). Introduction to Microwave Remote Sensing (1st ed.). CRC Press. https://doi.org/10.1201/9781315272573)
 
 ### Community Recommendations
 
