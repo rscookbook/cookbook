@@ -25,7 +25,8 @@ enoinstitute.com
 
 ## B
 
-### Band — A segment of the electromagnetic spectrum captured by a sensor; remote sensing instruments often record multiple bands (e.g., visible, infrared, microwave). 
+### Band
+A segment of the electromagnetic spectrum captured by a sensor; remote sensing instruments often record multiple bands (e.g., visible, infrared, microwave). 
 NASA Applied Sciences
 +2
 enoinstitute.com
