@@ -2,70 +2,39 @@
 
 ## A
 
-**Active remote sensing** — Remote-sensing methods that provide their own source of electromagnetic radiation to illuminate the terrain (e.g., radar, LiDAR). 
-enoinstitute.com
-+2
-NASA Applied Sciences
-+2
+**Active remote sensing** — Remote-sensing methods that provide their own source of electromagnetic radiation to illuminate the terrain (e.g., radar, LiDAR).
 
-Albedo — The ratio of the amount of electromagnetic energy reflected by a surface to the amount of energy incident upon it. 
-enoinstitute.com
-+1
+**Albedo** — The ratio of the amount of electromagnetic energy reflected by a surface to the amount of energy incident upon it.
 
-Analog(ue) — A representation that is continuous, not made up of discrete numerical values. In remote sensing: film photography or other non-digital imagery. 
-Natural Resources Canada
-+1
+**Analog(ue)** — A representation that is continuous, not made up of discrete numerical values. In remote sensing: film photography or other non-digital imagery.
 
-Application — The end purpose for which remote sensing is used (e.g., mapping, monitoring, environmental assessment). 
-Natural Resources Canada
+**Application** — The end purpose for which remote sensing is used (e.g., mapping, monitoring, environmental assessment).
 
-Amplitude — For waves, the maximum displacement from equilibrium (i.e., “height” of the wave). 
-enoinstitute.com
-+1
+**Amplitude** — For waves, the maximum displacement from equilibrium (i.e., “height” of the wave).
 
 ## B
 
-### Band
-A segment of the electromagnetic spectrum captured by a sensor; remote sensing instruments often record multiple bands (e.g., visible, infrared, microwave). 
-NASA Applied Sciences
-+2
-enoinstitute.com
-+2
+**Band** — A segment of the electromagnetic spectrum captured by a sensor; remote sensing instruments often record multiple bands (e.g., visible, infrared, microwave).
 
-Backscatter (Backscattering) — Energy that, after hitting a target, is scattered back in the direction of the sensor/illumination source. Particularly relevant for active sensors (e.g., radar). 
-Natural Resources Canada
-+2
-NASA Applied Sciences
-+2
+**Backscatter** — Energy that, after hitting a target, is scattered back in the direction of the sensor/illumination source. Particularly relevant for active sensors (e.g., radar).
 
-Bathymetry — Measurement of the depth of water bodies, often inferred via remote sensing techniques (e.g. altimeters, radar, LiDAR over water). 
-NASA Applied Sciences
+**Bathymetry** — Measurement of the depth of water bodies, often inferred via remote sensing techniques (e.g. altimeters, radar, LiDAR over water).
 
 ## C
 
-Cloud (in imagery) — (from remote-sensing context) – usually refers to clouds in the atmosphere that may occlude surface reflectance in optical imagery. 
-Natural Resources Canada
+**Cloud** (in imagery) — (from remote-sensing context) – usually refers to clouds in the atmosphere that may occlude surface reflectance in optical imagery.
 
-Classification — The process of assigning pixels or objects in remote-sensing data to categorical classes (e.g., land cover types). 
-NASA Applied Sciences
-+1
+**Classification** — The process of assigning pixels or objects in remote-sensing data to categorical classes (e.g., land cover types).
 
-Composite Image (Mosaic / Composite) — A single image produced by combining, mosaicking or compositing multiple images (often to cover a larger geographic area or reduce cloud effects). 
-NASA Applied Sciences
-+1
+**Composite Image** (Mosaic / Composite) — A single image produced by combining, mosaicking or compositing multiple images (often to cover a larger geographic area or reduce cloud effects).
 
-Coordinate Reference System (CRS) — The coordinate-based system used to map image data or spatial data to real-world positions (geolocation). 
-NASA Applied Sciences
+**Coordinate Reference System** (CRS) — The coordinate-based system used to map image data or spatial data to real-world positions (geolocation).
 
 ## D
 
-Digital data / Digital image — Data represented by numerical values (e.g., pixel values) rather than analog — the standard for modern remote-sensing imagery. 
-Natural Resources Canada
-+1
+**Digital data / Digital image** — Data represented by numerical values (e.g., pixel values) rather than analog — the standard for modern remote-sensing imagery.
 
-Digital number (DN) — The numerical value assigned to a pixel in a digital remote-sensing image, representing intensity (e.g., reflectance, backscatter). 
-enoinstitute.com
-+1
+**Digital number (DN)** — The numerical value assigned to a pixel in a digital remote-sensing image, representing intensity (e.g., reflectance, backscatter).
 
 Distortion — Changes in shape or position of objects in an image relative to their true ground geometry, often introduced by sensors, scanning, or projection. 
 enoinstitute.com
